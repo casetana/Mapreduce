@@ -1,0 +1,4 @@
+Exercicio 1.1
+
+A función do  mapper executarase sobre todas e cada unhas liñas do ficheiro de datos. O código do mapper anterior non funcionará correctamente se se encontra algunha liña que non encaixa co número exacto de valores separados por tabulador.
+Mellora o código de xeito que se encontra algunha liña cun formato non axeitado a descarte e siga traballando coa liña seguinte.
